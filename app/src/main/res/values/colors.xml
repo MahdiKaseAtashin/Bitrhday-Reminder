@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_steel_blue">#b49fdc</color>
+    <color name="pale_turquoise">#c5ebfe</color>
+    <color name="pale_turquoise_dark">#BEE7FB</color>
+    <color name="khaki">#fefd97</color>
+    <color name="light_green">#a5f8ce</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navajo_white">#fec9a7</color>
+    <color name="light_pink">#f197c0</color>
+    <color name="ll_gray">#CDCDCD</color>
+    <color name="gray_light">#676767</color>
+
+    <!--  Dark Colors  -->
+    <color name="gray_dark">#323232</color>
+    <color name="gray">#4C4C4C</color>
+    <color name="dark_slate_blue">#484569</color>
+    <color name="black">#FF000000</color>
+    <color name="corn_flower_blue">#7d94d0</color>
+    <color name="thistle">#d7bce4</color>
+    <color name="semi_light_steel_blue">#a2ace5</color>
+</resources>
